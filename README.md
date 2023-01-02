@@ -8,6 +8,7 @@ Technologies to learn in 2023:
 - React
 - Kubernetes
 - Rust
+- VIM
 
 <a href="https://github.com/mcleantom">
   <img align="center" width="49%" src="/github-metrics.svg" />
