@@ -22,6 +22,7 @@ Technologies to learn in 2023:
 - Typescript
 - Message Queues
 - Redis
+- JAX
 
 <a href="https://github.com/mcleantom">
   <img align="center" width="49%" src="/github-metrics.svg" />
