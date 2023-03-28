@@ -15,7 +15,7 @@ Technologies Learned in 2022:
 - Mongo
 
 Technologies to learn in 2023:
-- React
+- <del>React</del>
 - Kubernetes
 - Rust
 - VIM
