@@ -5,17 +5,17 @@
 - 😄 Pronouns: he/him
 
 Technologies Learned in 2022:
-- Terraform
-- AWS
-- Docker
+- [Terraform](https://github.com/mcleantom/fastapi-terraform)
+- [AWS](https://github.com/mcleantom/fastapi-terraform)
+- [Docker](https://github.com/mcleantom/fastapi-lambda-docker)
 - Linux
-- FastAPI
-- C++
+- [FastAPI](https://github.com/mcleantom/FastAPI_AWS_Cognito)
+- [C++](https://github.com/mcleantom/RGInterp)
 - Jenkins/Devops
 - Mongo
 
 Technologies to learn in 2023:
-- <del>React</del>
+- [React](https://github.com/mcleantom/mcleantom.github.io)
 - Kubernetes
 - Rust
 - VIM
