@@ -17,7 +17,7 @@ Technologies Learned in 2022:
 Technologies to learn in 2023:
 - [React](https://github.com/mcleantom/mcleantom.github.io)
 - Kubernetes
-- Rust
+- [Rust](https://github.com/mcleantom/RUST)
 - VIM
 - Typescript
 - Message Queues
