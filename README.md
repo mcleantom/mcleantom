@@ -23,7 +23,7 @@ Technologies to learn in 2023:
 - Message Queues
 - Redis
 - JAX
-- CUDA Kernels
+- [CUDA Kernels](https://github.com/mcleantom/LearnCUDA)
 
 <a href="https://github.com/mcleantom">
   <img align="center" width="49%" src="/github-metrics.svg" />
