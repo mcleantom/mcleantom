@@ -14,16 +14,20 @@ Technologies Learned in 2022:
 - Jenkins/Devops
 - Mongo
 
-Technologies to learn in 2023:
+Technologies learned learn in 2023:
 - [React](https://github.com/mcleantom/mcleantom.github.io)
-- Kubernetes
 - [Rust](https://github.com/mcleantom/RUST)
-- VIM
-- Typescript
-- Message Queues
-- Redis
-- JAX
 - [CUDA Kernels](https://github.com/mcleantom/LearnCUDA)
+- [LLMS](https://github.com/mcleantom/MessengerToGPT)
+
+Technologies to learn in 2024:
+- [GANs](https://github.com/mcleantom/MNIST-GAN)
+- Stable Diffusion
+- More CUDA
+- Kubernetes
+- Quantization
+- Transfer Learning / Fine Tuning
+- PostgreSQL
 
 <a href="https://github.com/mcleantom">
   <img align="center" width="49%" src="/github-metrics.svg" />
