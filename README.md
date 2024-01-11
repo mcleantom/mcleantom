@@ -28,6 +28,7 @@ Technologies to learn in 2024:
 - Quantization
 - Transfer Learning / Fine Tuning
 - PostgreSQL
+- RUST Web API
 
 <a href="https://github.com/mcleantom">
   <img align="center" width="49%" src="/github-metrics.svg" />
