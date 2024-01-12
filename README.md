@@ -22,7 +22,7 @@ Technologies learned learn in 2023:
 
 Technologies to learn in 2024:
 - [GANs](https://github.com/mcleantom/MNIST-GAN)
-- Stable Diffusion
+- [Diffusion Models](https://github.com/mcleantom/MNIST-Diffusion)
 - More CUDA
 - Kubernetes
 - Quantization
