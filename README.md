@@ -27,7 +27,7 @@ Technologies to learn in 2024:
 - Kubernetes
 - Quantization
 - Transfer Learning / Fine Tuning
-- PostgreSQL
+- [PostgreSQL](https://github.com/mcleantom/strategy)
 - [RUST Web API](https://github.com/mcleantom/rust_distributed_task_scheduler)
 
 <a href="https://github.com/mcleantom">
