@@ -30,6 +30,3 @@ Technologies Learned in 2022:
 <a href="https://github.com/mcleantom">
   <img align="center" width="49%" src="/github-metrics.svg" />
 </a>
-
-<script data-goatcounter="https://mcleantom.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
