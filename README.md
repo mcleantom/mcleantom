@@ -4,7 +4,11 @@
 - 🌱 I’m currently learning C++, Data Structures and Algorithms
 - 😄 Pronouns: he/him
 
-Technologies to learn in 2024:
+Technologies to learn in 2025:
+- Cisco Certified Network Associate
+- Infiniband
+
+Technologies learned in 2024:
 - [GANs](https://github.com/mcleantom/MNIST-GAN)
 - [Diffusion Models](https://github.com/mcleantom/MNIST-Diffusion)
 - [Kubernetes](https://github.com/mcleantom/raspberry-pi-kubernetes-cluster) (Nowhere near as hard as I thought it would be to use kubernetes!)
