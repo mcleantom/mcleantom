@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 
 Technologies to learn in 2025:
-- Cisco Certified Network Associate
+- [Cisco Certified Network Associate](https://github.com/mcleantom/CCNA-Notes)
 - Infiniband
 
 Technologies learned in 2024:
