@@ -18,7 +18,7 @@
 - [Cisco Certified Network Associate](https://github.com/mcleantom/CCNA-Notes)  
 - Infiniband  
 
-### 🎉 Technologies I Mastered:
+### 🎉 Technologies I've Learned:
 
 #### 2024:
 - [GANs](https://github.com/mcleantom/MNIST-GAN)  
