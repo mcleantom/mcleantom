@@ -15,7 +15,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 
 ### 🛠️ Technologies I'm Excited to Learn in 2025:
-- [Cisco Certified Network Associate](https://github.com/mcleantom/CCNA-Notes)  
+- [LangChain](https://github.com/mcleantom/langchain_testing)
+- [Networking](https://github.com/mcleantom/CCNA-Notes)  
 - Infiniband  
 
 ### 🎉 Technologies I've Learned:
