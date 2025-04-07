@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [A VR Simulator for the Americas Cup](https://www.ineosbritannia.com/en/articles/466_Bold-Protocol-Simulating-the-Cup.html)  
+- 🔭 I’m currently working on [A VR Simulator for the Americas Cup](https://www.athenaracing.com/en/articles/466_Bold-Protocol-Simulating-the-Cup.html)  
 - 🌱 I’m currently learning C++, Data Structures, and Algorithms  
 - 😄 Pronouns: he/him  
 
