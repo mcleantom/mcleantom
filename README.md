@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [A VR Simulator for the Americas Cup](https://www.athenaracing.com/en/articles/466_Bold-Protocol-Simulating-the-Cup.html)  
-- 🌱 I’m currently learning C++, Data Structures, and Algorithms  
+- 🔭 I’m currently working on [Multi-Agent Copilots for the Finance Industry](https://www.sigtech.com/)  
 - 😄 Pronouns: he/him  
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -18,8 +17,7 @@
 
 ### 🛠️ Technologies I'm Excited to Learn in 2025:
 - [LangChain](https://github.com/mcleantom/langchain_testing)
-- [Networking](https://github.com/mcleantom/CCNA-Notes)  
-- Infiniband  
+- [Networking](https://github.com/mcleantom/CCNA-Notes)
 
 ### 🎉 Technologies I've Learned:
 
